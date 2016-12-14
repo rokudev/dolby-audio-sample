@@ -1,2 +1,5 @@
-# dolby-audio-sample
-A collection of Dolby test content available in different streaming protocols.
+# Dolby Audio Sample
+
+![](images/screenshot.jpg)
+
+A collection of Dolby test content in different streaming protocols.
